@@ -86,6 +86,11 @@ ___
 #### **Courses and trainings:**
 | July 2021 |  Rolling Scopes School - Course "JS / FRONT-END" in Web Development |
 | :---: | :---:|
+1. Introduction into Web Development
+2. Gaining experience with JavaScript and building a portfolio
+3. Working under the mentorship of professional Web Developers
+4. Acquiring the necessary skills and traits for successful employment at EPAM
+5. Expected graduation in March 2022
  ___
  ### **Languages**
  | <li>English</li> | C1 (advanced) |

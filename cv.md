@@ -26,8 +26,8 @@ ___
 |  |  |
 | --- | ---|
 |• Markdown - Proficient| • Git VCS - Novice|
-|• HTML - Novice</li>|• GitHub - Novice|
-|• CSS - Novice</li>|• Touch-typing - Proficient|
+|• HTML - Novice|• GitHub - Novice|
+|• CSS - Novice|• Touch-typing - Proficient|
 |• Python - Novice||
 
 ### **Soft skills**
@@ -80,7 +80,7 @@ ___
 ### **Education:**
 
 | Sept. 2019 |  Saint-Petersburg University of Management Technologies and Economics (UMTE) |
-| :---: | :---:|
+| :--- | :---|
 |•|Majoring in Translation and Translation Studies|
 |•|5.0 GPA (currently)|
 |•|Expected graduation in 2023|
@@ -88,7 +88,7 @@ ___
 #### **Courses and trainings:**
 
 | July 2021 |  Rolling Scopes School - Course "JS / FRONT-END" in Web Development |
-| :---: | :---:|
+| :--- | :---|
 |1.|Introduction into Web Development|
 |2.|Gaining experience with JavaScript and building a portfolio|
 |3.|Working under the mentorship of professional Web Developers|
@@ -97,7 +97,7 @@ ___
 
  ___
  
- ### **Languages**
+### **Languages**
  
 * English C1 (advanced) 
 * Spansih  B1.1 (intermediate)

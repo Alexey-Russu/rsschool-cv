@@ -18,6 +18,7 @@ leha.russu777horse@gmail.com
 [@Alexey-Russu](https://github.com/Alexey-Russu)
 ***
 >Full of diligence and enthusiasm, 5.0 GPA liberal arts student with no IT background. Ready to apply my persistence and resourcefulness to grasping the specialty of a Web Developer. I am determined to pursue further professional growth and eventually build something impactful on a global scale.
+
 ___
 ### **Hard skills**
 
@@ -27,13 +28,14 @@ ___
 |<li>HTML - Novice</li>|<li>GitHub - Novice</li>|
 |<li>CSS - Novice</li>|<li>Touch-typing - Proficient</li>|
 |<li>Python - Novice</li>||
+
 ### **Soft skills**
+
 |  |  ||
 | --- | ---|---|
 | <li>Collaboration</li>| - | Expert |
 | <li>Leadership</li> |-| Advanced |
 | <li>Stress managment</li> |-| Advanced |
-
 
 ___
 ### **Code sample**
@@ -77,6 +79,7 @@ ___
 ### **No work experience yet**
 ___
 ### **Education:**
+
 | Sept. 2019 |  Saint-Petersburg University of Management Technologies and Economics (UMTE) |
 | :---: | :---:|
  
@@ -84,8 +87,10 @@ ___
 * 5.0 GPA (currently)
 * Expected graduation in 2023
 #### **Courses and trainings:**
+
 | July 2021 |  Rolling Scopes School - Course "JS / FRONT-END" in Web Development |
 | :---: | :---:|
+
 1. Introduction into Web Development
 2. Gaining experience with JavaScript and building a portfolio
 3. Working under the mentorship of professional Web Developers
@@ -93,6 +98,7 @@ ___
 5. Expected graduation in March 2022
  ___
  ### **Languages**
+ 
  | <li>English</li> | C1 (advanced) |
 | --- | ---|
 | <li>Spansih</li> | B1.1 (intermediate)|

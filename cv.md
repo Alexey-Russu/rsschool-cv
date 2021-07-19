@@ -16,6 +16,7 @@ ___
 leha.russu777horse@gmail.com
 #### **GitHub:**
 [@Alexey-Russu](https://github.com/Alexey-Russu)
+
 ***
 >Full of diligence and enthusiasm, 5.0 GPA liberal arts student with no IT background. Ready to apply my persistence and resourcefulness to grasping the specialty of a Web Developer. I am determined to pursue further professional growth and eventually build something impactful on a global scale.
 
@@ -24,18 +25,16 @@ ___
 
 |  |  |
 | --- | ---|
-|<li>Markdown - Proficient</li>| <li>Git VCS - Novice</li>|
-|<li>HTML - Novice</li>|<li>GitHub - Novice</li>|
-|<li>CSS - Novice</li>|<li>Touch-typing - Proficient</li>|
-|<li>Python - Novice</li>||
+|• Markdown - Proficient| • Git VCS - Novice|
+|• HTML - Novice</li>|• GitHub - Novice|
+|• CSS - Novice</li>|• Touch-typing - Proficient|
+|• Python - Novice||
 
 ### **Soft skills**
 
-|  |  ||
-| --- | ---|---|
-| <li>Collaboration</li>| - | Expert |
-| <li>Leadership</li> |-| Advanced |
-| <li>Stress managment</li> |-| Advanced |
+* Collaboration - Expert
+* Leadership - Advanced
+* Stress managment - Advanced
 
 ___
 ### **Code sample**
@@ -82,24 +81,24 @@ ___
 
 | Sept. 2019 |  Saint-Petersburg University of Management Technologies and Economics (UMTE) |
 | :---: | :---:|
+|•|Majoring in Translation and Translation Studies|
+|•|5.0 GPA (currently)|
+|•|Expected graduation in 2023|
  
-* Majoring in Translation and Translation Studies
-* 5.0 GPA (currently)
-* Expected graduation in 2023
 #### **Courses and trainings:**
 
 | July 2021 |  Rolling Scopes School - Course "JS / FRONT-END" in Web Development |
 | :---: | :---:|
+|1.|Introduction into Web Development|
+|2.|Gaining experience with JavaScript and building a portfolio|
+|3.|Working under the mentorship of professional Web Developers|
+|4.|Acquiring the necessary skills and traits for successful employment at EPAM|
+|5.|Expected graduation in March 2022|
 
-1. Introduction into Web Development
-2. Gaining experience with JavaScript and building a portfolio
-3. Working under the mentorship of professional Web Developers
-4. Acquiring the necessary skills and traits for successful employment at EPAM
-5. Expected graduation in March 2022
  ___
+ 
  ### **Languages**
  
- | <li>English</li> | C1 (advanced) |
-| --- | ---|
-| <li>Spansih</li> | B1.1 (intermediate)|
-|<li>Mandarin Chinese</li>| HSK1 (basic)
+* English C1 (advanced) 
+* Spansih  B1.1 (intermediate)
+* Mandarin Chinese HSK1 (basic)

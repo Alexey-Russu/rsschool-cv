@@ -80,7 +80,7 @@ ___
 ### **Education:**
 
 | Sept. 2019 |  Saint-Petersburg University of Management Technologies and Economics (UMTE) |
-| :--- | :---|
+| :---: | :---|
 |•|Majoring in Translation and Translation Studies|
 |•|5.0 GPA (currently)|
 |•|Expected graduation in 2023|
@@ -88,7 +88,7 @@ ___
 #### **Courses and trainings:**
 
 | July 2021 |  Rolling Scopes School - Course "JS / FRONT-END" in Web Development |
-| :--- | :---|
+| :---: | :---|
 |1.|Introduction into Web Development|
 |2.|Gaining experience with JavaScript and building a portfolio|
 |3.|Working under the mentorship of professional Web Developers|
